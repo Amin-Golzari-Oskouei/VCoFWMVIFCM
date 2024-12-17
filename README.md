@@ -2,7 +2,7 @@
 
 This paper presents an intuitionistic fuzzy c-means-based clustering algorithm for multi-view clustering, addressing key challenges such as noise sensitivity, outlier influence, and the distinct importance of views, features, and samples. Our proposed approach incorporates view weights, feature weights, sample weights, and neighborhood information into a novel objective function. Additionally, we introduce an effective initial cluster center selection strategy that enhances clustering robustness. The efficiency of the proposed method is evaluated using various clustering criteria (AR, NMI, RI, FMI, and JI). Moreover, the effect of each module of the algorithm on the general clustering performance is examined exclusively. Experimental results on various benchmark multi-view datasets demonstrate that our algorithm outperforms state-of-the-art methods in terms of clustering accuracy and stability. 
 
-# Overview of the FW-S3PFCM:
+# Overview of the VCoFWMVIFCM:
 
 ![Model drawio (5) drawio](https://github.com/user-attachments/assets/ae77b349-126d-4d31-8d12-d8c231d96092)
 
